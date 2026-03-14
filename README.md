@@ -1,5 +1,5 @@
 # 📚 ICP Library Management System
-> **Official Desktop Solution for Imperial College of Pharmacy**
+> **Official Desktop Solution for Library Management**
 
 ---
 
