@@ -1,17 +1,22 @@
-# icp_library
+# 📚 ICP Library Management System 
+### Official Desktop Software for Imperial College of Pharmacy
 
-A new Flutter project.
+A robust, Flutter-based desktop application designed to streamline library operations, including book tracking, student records, and automated reporting.
 
-## Getting Started
+## 🚀 Get Started Immediately
+Don't want to look at the code? Just download and run the installer:
+👉 **[Download ICP_Library_Setup.exe](./ICP_Library_Setup.exe)**
 
-This project is a starting point for a Flutter application.
+## ✨ Key Features
+* **Complete Book Management:** Easily add, issue, and return books.
+* **Student Database:** Fast import and management of student library accounts.
+* **Professional Reports:** Export data to Excel and PDF for official college records.
+* **Secure Storage:** Powered by a local SQLite database for high performance.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Built With
+* **Frontend:** Flutter (Dart)
+* **Database:** SQLite
+* **Distribution:** Inno Setup (Windows Installer)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+**Developed by Soham Bhongade** *Copyright © 2026 | All Rights Reserved*
