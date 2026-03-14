@@ -24,7 +24,7 @@ This application is a professional desktop solution designed to digitize and sim
 You don't need any coding knowledge to use this app. Follow these 3 simple steps:
 
 1.  **Download:** Click the link below to get the setup file:
-    👉 **[Download ICP_Library_Setup.exe](MZP)**
+    👉 **[Download ICP_Library_Setup.exe](https://github.com/SohamBhongade/ICP-Library-Management-System/raw/refs/heads/main/ICP_Library_Setup.exe)**
 2.  **Run:** Open the downloaded file and follow the on-screen instructions.
 3.  **Launch:** Look for the **ICP Library System** icon on your Desktop and double-click to start!
 
